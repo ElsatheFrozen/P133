@@ -1,0 +1,18 @@
+body
+{
+    background-color: #4158D0;
+background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 17%, #FFCC70 39%, #25d164 60%, #4f50fb 80%, #c1ffff 100%);
+}
+a
+{
+    background-color: white;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 20px;
+    color: black;
+}
+h1
+{
+    font-weight: bold;
+    color: black;
+}
